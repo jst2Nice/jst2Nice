@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Hey, Im 2Nice, a guy that does some Stuff on the Internet.</h3>
+<h3 align="center">Im 2Nice, a guy that does some Stuff on the Internet.</h3>
 
 
 ###
