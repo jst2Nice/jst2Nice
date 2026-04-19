@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="100" src="https://cdn.2nice.fun/pfp.jpg"  />
-</div>
-
-###
-
 <h1 align="center">Hey, I'm 2Nice 🙋🏽‍♂️</h1>
 
 ###
